@@ -11,7 +11,6 @@
   <br>
   目前正在积极寻求在北京的<b>软件开发 / AI应用工程师</b>相关实习或工作机会。
 </p>
-
 ---
 
 ### 🛠️ 我的技术栈 | My Tech Stack
@@ -145,6 +144,7 @@
 </p>
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=unendev&bg_color=0d1117&color=ffffff&line=00b4ab&point=ffffff&area=true&hide_border=true)
+![Trophy](https://github-profile-trophy.vercel.app/?username=unendev&theme=gruvbox&column=7)
 ---
 
 ### 📫 如何联系我 | How to Connect
