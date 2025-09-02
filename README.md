@@ -2,6 +2,8 @@
   <img src="https://raw.githubusercontent.com/dev-Junaid/dev-Junaid/main/wave.gif" width="100%">
 </div>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Weijun+Chen;A+Full-Stack+Developer;Passionate+about+AI+%26+Engineering)
+
 # 👋 你好，我是陈伟俊 (Hi, I'm Weijun Chen)
 
 <p align="left">
