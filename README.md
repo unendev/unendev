@@ -130,6 +130,8 @@
 
 ---
 
+### 📊 GitHub 统计 | My GitHub Stats
+
 <!-- start snake -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dist/github-contribution-grid-snake-dark.svg" />
@@ -137,8 +139,6 @@
   <img alt="github contribution grid snake animation" src="dist/github-contribution-grid-snake.svg" />
 </picture>
 <!-- end snake -->
-
-### 📊 GitHub 统计 | My GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=unendev&show_icons=true&theme=vue&rank_icon=github" alt="GitHub Stats" />
