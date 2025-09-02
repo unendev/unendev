@@ -1,0 +1,44 @@
+# ================================================================
+# == 正确、安全的最终版本 ==
+# ================================================================
+name: Generate Snake Animation
+
+# 授权 Workflow 有写入仓库的权限
+permissions:
+  contents: write
+
+on:
+  # 定时任务：每天执行一次
+  schedule:
+    - cron: "0 0 * * *"
+  # 允许手动触发
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 步骤1: 检出（下载）仓库的当前代码
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 步骤2: 生成贪吃蛇动画文件
+      - name: Generate Snake Animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # 步骤3: 提交并推送生成的文件
+      # 这个 Action (stefanzweifel/git-auto-commit-action) 只会添加和提交新文件
+      # 它不会覆盖或删除你的任何现有文件，非常安全！
+      - name: Commit and Push Files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: generate snake animation"
+          file_pattern: dist/*
