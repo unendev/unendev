@@ -1,26 +1,10 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/unendev/unendev/main/wave.gif" width="100px" />
-</div>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=4000&pause=500&color=3397F7&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Weijun+Chen;A+Full-Stack+%26+AI+Engineer" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  我是一名热衷于将前沿 AI 技术与扎实工程实践相结合的全栈开发者
-</p>
-
----
-
 ### 🛠️ 我的技术栈 | My Tech Stack
-<!-- 技术栈表格部分保持不变，它清晰且有效 -->
 <table>
   <tr>
     <td align="center" width="150px"><strong>后端 (Backend)</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white" alt="Spring Security"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
     </td>
@@ -28,33 +12,21 @@
   <tr>
     <td align="center"><strong>前端 (Frontend)</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-      <img src="https://img.shields.io/badge/微信小程序-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
       <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat"/>
     </td>
   </tr>
   <tr>
-    <td align="center"><strong>AI / 数据 (AI / Data)</strong></td>
+    <td align="center"><strong>数据库 & 运维</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-      <img src="https://img.shields.io/badge/RAG-blueviolet?style=for-the-badge" alt="RAG"/>
-      <img src="https://img.shields.io/badge/DJL-F4A460?style=for-the-badge" alt="DJL"/>
-      <img src="https://img.shields.io/badge/LLM_API-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM API"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><strong>数据库 & 其他</strong></td>
-    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-      <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt"/>
-      <img src="https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket"/>
     </td>
   </tr>
-  <tr>
     <td align="center"><strong>语言偏好</strong></td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=unendev&layout=compact&theme=vue&langs_count=6" alt="Top Languages" />
@@ -152,7 +124,7 @@
 </table>
 
 ---
-<!-- GitHub 贡献图和联系方式保持不变 -->
+
 ### 📊 GitHub 贡献 | My GitHub Contributions
 
 <p align="center">
