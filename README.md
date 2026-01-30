@@ -1,4 +1,4 @@
-### 🛠️ 我的技术栈 | My Tech Stack
+###  我的技术栈 | My Tech Stack
 <table>
   <tr>
     <td align="center" width="150px"><strong>后端 (Backend)</strong></td>
